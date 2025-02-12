@@ -49,7 +49,7 @@ Welcome to the E-Commerce Web App repository! This project is designed to be a f
    
 ### Backend Setup
 
-Refer to the [MedusaJS documentation](https://docs.medusa-commerce.com/) to set up and configure your backend.
+Refer to the [MedusaJS documentation](https://docs.medusajs.com/) to set up and configure your backend.
 
 ### Usage
 
